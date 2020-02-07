@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Gaming Platform API Documentation!
-=============================================
+Welcome to Gaming Platform Documentation!
+=========================================
 
 .. toctree::
    :maxdepth: 2
@@ -12,13 +12,9 @@ Welcome to Gaming Platform API Documentation!
 
 
 
-Indices and tables
-==================
+API End Points Documentation
+============================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
-`API Documentation <https://docs.google.com/spreadsheets/d/1nqE4SBPGBymhloTFrXbgJ6oYnMlvaqjl_kD5rdH8_B0/edit?usp=sharing>`_
+* `Seven Lux <https://docs.google.com/spreadsheets/d/1nqE4SBPGBymhloTFrXbgJ6oYnMlvaqjl_kD5rdH8_B0/edit?usp=sharing>`_
 
 

@@ -165,5 +165,7 @@ texinfo_documents = [
      'Miscellaneous'),
 ]
 
+master_doc = 'index'
+
 
 

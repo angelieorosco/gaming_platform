@@ -167,5 +167,10 @@ texinfo_documents = [
 
 master_doc = 'index'
 
+import sys, os
+sys.path.append('.')
+from links.link import *
+from links import *
+
 
 
